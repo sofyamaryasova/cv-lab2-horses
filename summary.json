@@ -1,0 +1,1667 @@
+{
+  "input": "input.mp4",
+  "frames": 48,
+  "fps": 2,
+  "detection_model": "Faster R-CNN ResNet50 FPN V2",
+  "segmentation_model": "DeepLabV3 ResNet50",
+  "confidence_threshold": 0.55,
+  "total_processing_seconds": 137.01,
+  "results": [
+    {
+      "frame": "frame_0001.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            596.0,
+            376.7,
+            756.1,
+            467.1
+          ],
+          "class": "horse",
+          "confidence": 0.9985
+        },
+        {
+          "box_xyxy": [
+            426.7,
+            234.2,
+            513.9,
+            321.4
+          ],
+          "class": "horse",
+          "confidence": 0.9962
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.52
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            588.6,
+            378.6,
+            752.0,
+            471.6
+          ],
+          "class": "horse",
+          "confidence": 0.9984
+        },
+        {
+          "box_xyxy": [
+            427.1,
+            233.3,
+            509.8,
+            322.8
+          ],
+          "class": "horse",
+          "confidence": 0.9961
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.4
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            577.6,
+            383.0,
+            746.4,
+            482.4
+          ],
+          "class": "horse",
+          "confidence": 0.9986
+        },
+        {
+          "box_xyxy": [
+            424.4,
+            233.5,
+            505.9,
+            323.4
+          ],
+          "class": "horse",
+          "confidence": 0.9971
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.39
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            558.3,
+            391.7,
+            722.2,
+            492.7
+          ],
+          "class": "horse",
+          "confidence": 0.9936
+        },
+        {
+          "box_xyxy": [
+            420.4,
+            230.7,
+            500.3,
+            323.1
+          ],
+          "class": "horse",
+          "confidence": 0.9555
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.36
+    },
+    {
+      "frame": "frame_0005.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            535.8,
+            394.7,
+            729.4,
+            505.1
+          ],
+          "class": "horse",
+          "confidence": 0.9982
+        },
+        {
+          "box_xyxy": [
+            422.4,
+            228.8,
+            494.7,
+            318.8
+          ],
+          "class": "horse",
+          "confidence": 0.8067
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.36
+    },
+    {
+      "frame": "frame_0006.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            510.8,
+            394.6,
+            670.1,
+            513.0
+          ],
+          "class": "horse",
+          "confidence": 0.9981
+        },
+        {
+          "box_xyxy": [
+            425.0,
+            223.2,
+            477.6,
+            318.3
+          ],
+          "class": "bird",
+          "confidence": 0.9515
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.35
+    },
+    {
+      "frame": "frame_0007.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            485.2,
+            392.3,
+            638.4,
+            512.5
+          ],
+          "class": "horse",
+          "confidence": 0.9946
+        },
+        {
+          "box_xyxy": [
+            426.2,
+            218.9,
+            471.1,
+            315.8
+          ],
+          "class": "dog",
+          "confidence": 0.6496
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.41
+    },
+    {
+      "frame": "frame_0008.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            461.5,
+            387.4,
+            606.5,
+            510.2
+          ],
+          "class": "horse",
+          "confidence": 0.9973
+        },
+        {
+          "box_xyxy": [
+            430.2,
+            208.5,
+            471.8,
+            301.7
+          ],
+          "class": "dog",
+          "confidence": 0.8267
+        },
+        {
+          "box_xyxy": [
+            431.0,
+            208.7,
+            470.2,
+            302.2
+          ],
+          "class": "sheep",
+          "confidence": 0.7744
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.41
+    },
+    {
+      "frame": "frame_0009.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            440.1,
+            380.6,
+            573.2,
+            505.8
+          ],
+          "class": "horse",
+          "confidence": 0.9979
+        },
+        {
+          "box_xyxy": [
+            434.9,
+            193.4,
+            466.5,
+            298.3
+          ],
+          "class": "dog",
+          "confidence": 0.6332
+        },
+        {
+          "box_xyxy": [
+            434.9,
+            190.0,
+            466.9,
+            300.5
+          ],
+          "class": "bird",
+          "confidence": 0.6115
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.39
+    },
+    {
+      "frame": "frame_0010.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            423.9,
+            372.2,
+            542.2,
+            502.3
+          ],
+          "class": "horse",
+          "confidence": 0.9963
+        },
+        {
+          "box_xyxy": [
+            438.0,
+            188.1,
+            467.8,
+            282.9
+          ],
+          "class": "bird",
+          "confidence": 0.8985
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.36
+    },
+    {
+      "frame": "frame_0011.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            409.1,
+            361.1,
+            514.2,
+            489.5
+          ],
+          "class": "horse",
+          "confidence": 0.9892
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.46
+    },
+    {
+      "frame": "frame_0012.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            455.4,
+            178.2,
+            483.7,
+            269.0
+          ],
+          "class": "bird",
+          "confidence": 0.9922
+        },
+        {
+          "box_xyxy": [
+            397.5,
+            350.6,
+            491.2,
+            480.4
+          ],
+          "class": "horse",
+          "confidence": 0.9816
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.4
+    },
+    {
+      "frame": "frame_0013.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            387.2,
+            343.7,
+            473.5,
+            468.6
+          ],
+          "class": "horse",
+          "confidence": 0.9515
+        },
+        {
+          "box_xyxy": [
+            461.9,
+            178.2,
+            489.5,
+            260.2
+          ],
+          "class": "bird",
+          "confidence": 0.8258
+        },
+        {
+          "box_xyxy": [
+            461.6,
+            177.4,
+            489.1,
+            260.9
+          ],
+          "class": "sheep",
+          "confidence": 0.7743
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.4
+    },
+    {
+      "frame": "frame_0014.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            381.5,
+            337.7,
+            454.9,
+            459.8
+          ],
+          "class": "horse",
+          "confidence": 0.9269
+        },
+        {
+          "box_xyxy": [
+            470.1,
+            175.6,
+            498.1,
+            257.7
+          ],
+          "class": "bird",
+          "confidence": 0.6606
+        }
+      ],
+      "segmentation_classes": [],
+      "processing_seconds": 2.36
+    },
+    {
+      "frame": "frame_0015.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            374.5,
+            334.2,
+            441.0,
+            451.9
+          ],
+          "class": "dog",
+          "confidence": 0.9237
+        },
+        {
+          "box_xyxy": [
+            477.8,
+            176.8,
+            510.4,
+            249.6
+          ],
+          "class": "bird",
+          "confidence": 0.73
+        },
+        {
+          "box_xyxy": [
+            479.1,
+            176.1,
+            509.7,
+            248.8
+          ],
+          "class": "dog",
+          "confidence": 0.6433
+        }
+      ],
+      "segmentation_classes": [],
+      "processing_seconds": 2.36
+    },
+    {
+      "frame": "frame_0016.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            372.4,
+            320.1,
+            428.0,
+            445.1
+          ],
+          "class": "horse",
+          "confidence": 0.9271
+        },
+        {
+          "box_xyxy": [
+            488.7,
+            179.2,
+            525.5,
+            240.8
+          ],
+          "class": "bird",
+          "confidence": 0.8819
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.39
+    },
+    {
+      "frame": "frame_0017.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            497.9,
+            180.2,
+            540.8,
+            238.7
+          ],
+          "class": "cow",
+          "confidence": 0.6675
+        },
+        {
+          "box_xyxy": [
+            372.6,
+            313.2,
+            417.1,
+            437.2
+          ],
+          "class": "horse",
+          "confidence": 0.6154
+        }
+      ],
+      "segmentation_classes": [],
+      "processing_seconds": 2.37
+    },
+    {
+      "frame": "frame_0018.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            501.0,
+            178.6,
+            561.1,
+            232.4
+          ],
+          "class": "dog",
+          "confidence": 0.9662
+        },
+        {
+          "box_xyxy": [
+            366.5,
+            308.0,
+            407.9,
+            428.3
+          ],
+          "class": "bird",
+          "confidence": 0.6096
+        },
+        {
+          "box_xyxy": [
+            367.4,
+            310.0,
+            408.0,
+            428.7
+          ],
+          "class": "horse",
+          "confidence": 0.554
+        }
+      ],
+      "segmentation_classes": [],
+      "processing_seconds": 2.35
+    },
+    {
+      "frame": "frame_0019.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            362.3,
+            306.5,
+            400.2,
+            419.3
+          ],
+          "class": "bird",
+          "confidence": 0.9531
+        },
+        {
+          "box_xyxy": [
+            524.6,
+            175.8,
+            576.0,
+            230.1
+          ],
+          "class": "horse",
+          "confidence": 0.8411
+        },
+        {
+          "box_xyxy": [
+            524.4,
+            175.6,
+            575.9,
+            229.1
+          ],
+          "class": "sheep",
+          "confidence": 0.7821
+        },
+        {
+          "box_xyxy": [
+            21.6,
+            125.6,
+            31.4,
+            146.8
+          ],
+          "class": "person",
+          "confidence": 0.5897
+        }
+      ],
+      "segmentation_classes": [],
+      "processing_seconds": 2.39
+    },
+    {
+      "frame": "frame_0020.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            533.3,
+            173.6,
+            593.8,
+            227.7
+          ],
+          "class": "horse",
+          "confidence": 0.8851
+        },
+        {
+          "box_xyxy": [
+            357.5,
+            298.2,
+            393.8,
+            415.2
+          ],
+          "class": "bird",
+          "confidence": 0.8057
+        },
+        {
+          "box_xyxy": [
+            534.2,
+            174.0,
+            592.6,
+            228.3
+          ],
+          "class": "sheep",
+          "confidence": 0.757
+        },
+        {
+          "box_xyxy": [
+            52.9,
+            126.7,
+            61.7,
+            145.7
+          ],
+          "class": "person",
+          "confidence": 0.6459
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.41
+    },
+    {
+      "frame": "frame_0021.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            355.3,
+            299.3,
+            390.7,
+            406.0
+          ],
+          "class": "bird",
+          "confidence": 0.9787
+        },
+        {
+          "box_xyxy": [
+            556.8,
+            169.5,
+            611.7,
+            224.8
+          ],
+          "class": "sheep",
+          "confidence": 0.8853
+        },
+        {
+          "box_xyxy": [
+            556.6,
+            170.4,
+            611.7,
+            224.6
+          ],
+          "class": "horse",
+          "confidence": 0.6531
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.41
+    },
+    {
+      "frame": "frame_0022.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            351.4,
+            294.9,
+            385.2,
+            399.6
+          ],
+          "class": "bird",
+          "confidence": 0.9764
+        },
+        {
+          "box_xyxy": [
+            328.8,
+            333.6,
+            366.7,
+            404.6
+          ],
+          "class": "bird",
+          "confidence": 0.9704
+        },
+        {
+          "box_xyxy": [
+            570.9,
+            167.2,
+            627.8,
+            222.8
+          ],
+          "class": "sheep",
+          "confidence": 0.9321
+        },
+        {
+          "box_xyxy": [
+            570.9,
+            166.7,
+            626.9,
+            223.6
+          ],
+          "class": "horse",
+          "confidence": 0.6798
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.41
+    },
+    {
+      "frame": "frame_0023.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            328.1,
+            330.0,
+            364.6,
+            400.3
+          ],
+          "class": "bird",
+          "confidence": 0.946
+        },
+        {
+          "box_xyxy": [
+            585.3,
+            166.5,
+            642.5,
+            218.6
+          ],
+          "class": "sheep",
+          "confidence": 0.877
+        },
+        {
+          "box_xyxy": [
+            347.8,
+            294.9,
+            381.6,
+            395.9
+          ],
+          "class": "bird",
+          "confidence": 0.8752
+        },
+        {
+          "box_xyxy": [
+            585.8,
+            166.4,
+            642.3,
+            218.3
+          ],
+          "class": "horse",
+          "confidence": 0.7021
+        }
+      ],
+      "segmentation_classes": [],
+      "processing_seconds": 2.42
+    },
+    {
+      "frame": "frame_0024.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            346.4,
+            292.2,
+            376.4,
+            393.3
+          ],
+          "class": "horse",
+          "confidence": 0.9756
+        },
+        {
+          "box_xyxy": [
+            595.5,
+            169.3,
+            655.2,
+            220.8
+          ],
+          "class": "sheep",
+          "confidence": 0.9479
+        },
+        {
+          "box_xyxy": [
+            595.3,
+            169.5,
+            655.2,
+            221.1
+          ],
+          "class": "horse",
+          "confidence": 0.7093
+        },
+        {
+          "box_xyxy": [
+            345.4,
+            291.1,
+            377.5,
+            393.8
+          ],
+          "class": "dog",
+          "confidence": 0.6666
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.49
+    },
+    {
+      "frame": "frame_0025.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            323.8,
+            294.8,
+            384.5,
+            392.3
+          ],
+          "class": "dog",
+          "confidence": 0.9947
+        },
+        {
+          "box_xyxy": [
+            611.4,
+            171.2,
+            669.5,
+            217.2
+          ],
+          "class": "sheep",
+          "confidence": 0.9399
+        },
+        {
+          "box_xyxy": [
+            610.9,
+            172.2,
+            669.7,
+            217.2
+          ],
+          "class": "horse",
+          "confidence": 0.6199
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.46
+    },
+    {
+      "frame": "frame_0026.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            320.7,
+            296.6,
+            392.5,
+            387.9
+          ],
+          "class": "dog",
+          "confidence": 0.9814
+        },
+        {
+          "box_xyxy": [
+            627.3,
+            173.6,
+            682.9,
+            217.8
+          ],
+          "class": "horse",
+          "confidence": 0.9134
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.41
+    },
+    {
+      "frame": "frame_0027.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            639.4,
+            174.5,
+            694.2,
+            217.5
+          ],
+          "class": "horse",
+          "confidence": 0.9592
+        },
+        {
+          "box_xyxy": [
+            323.7,
+            292.9,
+            395.9,
+            383.9
+          ],
+          "class": "dog",
+          "confidence": 0.9222
+        },
+        {
+          "box_xyxy": [
+            638.7,
+            174.1,
+            694.3,
+            217.1
+          ],
+          "class": "sheep",
+          "confidence": 0.6863
+        }
+      ],
+      "segmentation_classes": [],
+      "processing_seconds": 2.4
+    },
+    {
+      "frame": "frame_0028.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            642.7,
+            175.3,
+            701.5,
+            219.0
+          ],
+          "class": "horse",
+          "confidence": 0.9942
+        },
+        {
+          "box_xyxy": [
+            323.7,
+            288.4,
+            401.2,
+            377.9
+          ],
+          "class": "horse",
+          "confidence": 0.959
+        },
+        {
+          "box_xyxy": [
+            325.8,
+            286.7,
+            403.6,
+            378.1
+          ],
+          "class": "dog",
+          "confidence": 0.5557
+        }
+      ],
+      "segmentation_classes": [],
+      "processing_seconds": 2.39
+    },
+    {
+      "frame": "frame_0029.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            306.4,
+            281.9,
+            411.6,
+            368.8
+          ],
+          "class": "horse",
+          "confidence": 0.9864
+        },
+        {
+          "box_xyxy": [
+            647.0,
+            176.5,
+            705.8,
+            219.4
+          ],
+          "class": "sheep",
+          "confidence": 0.9047
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.42
+    },
+    {
+      "frame": "frame_0030.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            654.8,
+            177.0,
+            711.6,
+            221.8
+          ],
+          "class": "horse",
+          "confidence": 0.9958
+        },
+        {
+          "box_xyxy": [
+            332.9,
+            275.9,
+            417.7,
+            352.8
+          ],
+          "class": "horse",
+          "confidence": 0.976
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.38
+    },
+    {
+      "frame": "frame_0031.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            645.6,
+            179.0,
+            718.9,
+            223.2
+          ],
+          "class": "horse",
+          "confidence": 0.9743
+        },
+        {
+          "box_xyxy": [
+            339.8,
+            275.9,
+            428.4,
+            347.6
+          ],
+          "class": "horse",
+          "confidence": 0.9249
+        },
+        {
+          "box_xyxy": [
+            338.1,
+            275.6,
+            429.1,
+            347.8
+          ],
+          "class": "dog",
+          "confidence": 0.7539
+        },
+        {
+          "box_xyxy": [
+            467.2,
+            141.0,
+            502.8,
+            160.0
+          ],
+          "class": "bench",
+          "confidence": 0.6842
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.38
+    },
+    {
+      "frame": "frame_0032.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            668.2,
+            179.8,
+            724.4,
+            224.0
+          ],
+          "class": "horse",
+          "confidence": 0.9932
+        },
+        {
+          "box_xyxy": [
+            345.7,
+            277.1,
+            431.8,
+            344.5
+          ],
+          "class": "horse",
+          "confidence": 0.978
+        },
+        {
+          "box_xyxy": [
+            476.7,
+            141.6,
+            511.1,
+            160.0
+          ],
+          "class": "bench",
+          "confidence": 0.6395
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.39
+    },
+    {
+      "frame": "frame_0033.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            671.7,
+            181.1,
+            729.4,
+            225.1
+          ],
+          "class": "horse",
+          "confidence": 0.9938
+        },
+        {
+          "box_xyxy": [
+            326.4,
+            270.8,
+            431.7,
+            345.6
+          ],
+          "class": "horse",
+          "confidence": 0.9897
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.45
+    },
+    {
+      "frame": "frame_0034.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            341.0,
+            269.5,
+            430.5,
+            342.9
+          ],
+          "class": "horse",
+          "confidence": 0.9967
+        },
+        {
+          "box_xyxy": [
+            670.3,
+            182.3,
+            734.5,
+            226.2
+          ],
+          "class": "horse",
+          "confidence": 0.9929
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.41
+    },
+    {
+      "frame": "frame_0035.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            326.8,
+            268.7,
+            431.3,
+            340.7
+          ],
+          "class": "horse",
+          "confidence": 0.9957
+        },
+        {
+          "box_xyxy": [
+            679.2,
+            183.8,
+            738.1,
+            227.4
+          ],
+          "class": "horse",
+          "confidence": 0.9919
+        },
+        {
+          "box_xyxy": [
+            497.1,
+            143.5,
+            531.2,
+            160.7
+          ],
+          "class": "bench",
+          "confidence": 0.5934
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.46
+    },
+    {
+      "frame": "frame_0036.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            342.2,
+            268.3,
+            429.3,
+            339.7
+          ],
+          "class": "horse",
+          "confidence": 0.9976
+        },
+        {
+          "box_xyxy": [
+            679.9,
+            184.5,
+            740.2,
+            228.8
+          ],
+          "class": "horse",
+          "confidence": 0.9883
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.49
+    },
+    {
+      "frame": "frame_0037.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            342.6,
+            267.7,
+            430.4,
+            339.2
+          ],
+          "class": "horse",
+          "confidence": 0.998
+        },
+        {
+          "box_xyxy": [
+            674.9,
+            184.7,
+            743.3,
+            229.6
+          ],
+          "class": "horse",
+          "confidence": 0.9785
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.47
+    },
+    {
+      "frame": "frame_0038.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            347.7,
+            267.4,
+            431.9,
+            337.1
+          ],
+          "class": "horse",
+          "confidence": 0.9898
+        },
+        {
+          "box_xyxy": [
+            693.4,
+            185.2,
+            751.2,
+            227.8
+          ],
+          "class": "sheep",
+          "confidence": 0.886
+        },
+        {
+          "box_xyxy": [
+            298.4,
+            118.0,
+            319.3,
+            129.4
+          ],
+          "class": "car",
+          "confidence": 0.5664
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.4
+    },
+    {
+      "frame": "frame_0039.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            324.4,
+            268.3,
+            432.0,
+            337.7
+          ],
+          "class": "horse",
+          "confidence": 0.997
+        },
+        {
+          "box_xyxy": [
+            689.3,
+            183.7,
+            761.2,
+            229.3
+          ],
+          "class": "horse",
+          "confidence": 0.9259
+        },
+        {
+          "box_xyxy": [
+            300.0,
+            119.1,
+            321.0,
+            130.2
+          ],
+          "class": "car",
+          "confidence": 0.7121
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.88
+    },
+    {
+      "frame": "frame_0040.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            345.6,
+            266.9,
+            433.1,
+            338.8
+          ],
+          "class": "horse",
+          "confidence": 0.9909
+        },
+        {
+          "box_xyxy": [
+            691.1,
+            182.9,
+            768.3,
+            225.5
+          ],
+          "class": "dog",
+          "confidence": 0.8371
+        },
+        {
+          "box_xyxy": [
+            697.5,
+            182.1,
+            768.7,
+            224.4
+          ],
+          "class": "horse",
+          "confidence": 0.5653
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.5
+    },
+    {
+      "frame": "frame_0041.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            332.4,
+            268.6,
+            433.0,
+            338.5
+          ],
+          "class": "horse",
+          "confidence": 0.9975
+        },
+        {
+          "box_xyxy": [
+            712.4,
+            179.8,
+            775.8,
+            224.4
+          ],
+          "class": "horse",
+          "confidence": 0.9734
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 3.19
+    },
+    {
+      "frame": "frame_0042.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            347.0,
+            267.8,
+            432.7,
+            338.6
+          ],
+          "class": "horse",
+          "confidence": 0.9797
+        },
+        {
+          "box_xyxy": [
+            713.6,
+            179.6,
+            773.4,
+            223.0
+          ],
+          "class": "horse",
+          "confidence": 0.9747
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.63
+    },
+    {
+      "frame": "frame_0043.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            337.4,
+            269.3,
+            431.9,
+            339.7
+          ],
+          "class": "horse",
+          "confidence": 0.9949
+        },
+        {
+          "box_xyxy": [
+            719.4,
+            179.0,
+            780.3,
+            222.3
+          ],
+          "class": "horse",
+          "confidence": 0.9809
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 2.3
+    },
+    {
+      "frame": "frame_0044.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            343.5,
+            270.3,
+            429.4,
+            338.8
+          ],
+          "class": "horse",
+          "confidence": 0.9917
+        },
+        {
+          "box_xyxy": [
+            725.3,
+            175.2,
+            783.2,
+            222.2
+          ],
+          "class": "horse",
+          "confidence": 0.9672
+        },
+        {
+          "box_xyxy": [
+            725.1,
+            175.1,
+            783.9,
+            222.6
+          ],
+          "class": "sheep",
+          "confidence": 0.7337
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 6.72
+    },
+    {
+      "frame": "frame_0045.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            341.8,
+            269.1,
+            430.3,
+            338.2
+          ],
+          "class": "horse",
+          "confidence": 0.995
+        },
+        {
+          "box_xyxy": [
+            719.5,
+            178.2,
+            781.9,
+            223.2
+          ],
+          "class": "horse",
+          "confidence": 0.9627
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 5.81
+    },
+    {
+      "frame": "frame_0046.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            344.4,
+            266.6,
+            432.8,
+            339.5
+          ],
+          "class": "horse",
+          "confidence": 0.9978
+        },
+        {
+          "box_xyxy": [
+            720.2,
+            178.3,
+            778.9,
+            223.2
+          ],
+          "class": "horse",
+          "confidence": 0.8849
+        },
+        {
+          "box_xyxy": [
+            720.1,
+            178.3,
+            778.7,
+            222.7
+          ],
+          "class": "sheep",
+          "confidence": 0.6474
+        },
+        {
+          "box_xyxy": [
+            720.0,
+            180.3,
+            778.8,
+            224.3
+          ],
+          "class": "dog",
+          "confidence": 0.6069
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 7.98
+    },
+    {
+      "frame": "frame_0047.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            345.1,
+            266.8,
+            433.0,
+            340.1
+          ],
+          "class": "horse",
+          "confidence": 0.9962
+        },
+        {
+          "box_xyxy": [
+            725.7,
+            178.4,
+            778.1,
+            223.0
+          ],
+          "class": "horse",
+          "confidence": 0.9944
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 5.67
+    },
+    {
+      "frame": "frame_0048.jpg",
+      "objects": [
+        {
+          "box_xyxy": [
+            345.8,
+            266.8,
+            433.1,
+            340.0
+          ],
+          "class": "horse",
+          "confidence": 0.9963
+        },
+        {
+          "box_xyxy": [
+            718.2,
+            179.1,
+            777.4,
+            223.8
+          ],
+          "class": "horse",
+          "confidence": 0.9954
+        }
+      ],
+      "segmentation_classes": [
+        "horse"
+      ],
+      "processing_seconds": 5.85
+    }
+  ]
+}
